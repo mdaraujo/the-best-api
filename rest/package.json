@@ -1,0 +1,29 @@
+{
+    "name": "rest-routes",
+    "version": "1.0.0",
+    "description": "Refactoring Rest Route",
+    "main": "routes.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@google-cloud/speech": "^1.5.0",
+      "aws-sdk": "^2.253.1",
+      "bluebird": "^3.5.1",
+      "debug": "^3.1.0",
+      "express-limiter": "^1.6.1",
+      "http": "^0.0.0",
+      "joi": "^13.0.2",
+      "md5": "^2.2.1",
+      "mkdirp": "^0.5.1",
+      "moment": "^2.19.3",
+      "pg": "^7.4.0",
+      "redis": "^2.8.0",
+      "request": "^2.83.0",
+      "url-parse": "^1.4.1",
+      "winston": "2.4.1",
+      "winston-daily-rotate-file": "^1.7.2",
+      "lodash":"^4.17.10",
+      "xml2json":"^0.11.2"
+    }
+  }
+  
